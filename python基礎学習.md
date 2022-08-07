@@ -1,0 +1,3 @@
+pythonの基礎学習をしてます
+こちらのサイトを見ながら模写しつつ、応用とかしながら学習をしています
+https://python.softmoco.com
