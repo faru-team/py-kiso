@@ -37,3 +37,12 @@ def print_options(**options):
 print_options(option1 = 190, option2 = "test", option3 = True)
 print("--------------")
 print_options(opt1 = "test", opt2 = 2)
+
+def add(*values):
+    total = 0
+    for x in values:
+        total += x
+    return total
+
+total = add(1000, 2000, 3000)
+print(f"Total: {total}")
